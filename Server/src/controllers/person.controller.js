@@ -1,13 +1,10 @@
 const Person = require("../models/person.model");
 
-exports.getPersonList = (req, res) => {
-  //console.log("All people");
-  Person.getAllPeople((err, people) => {
-    console.log("herre");
-    if (err) {
-      res.send(err);
-    } else {
-      res.send(people);
-    }
-  });
+exports.getPersonList = async (req, res) => {
+  try {
+    const people = await Person.find();
+    res.status(200).json(people);
+  } catch (err) {
+    res.status(500).json({ error: err });
+  }
 };
