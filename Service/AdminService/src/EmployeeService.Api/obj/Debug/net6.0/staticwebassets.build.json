@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tDk9cbdrv2Ry6YAPRP29CxIlltQLJP3zu8DeJRRWQb0=",
+  "Source": "AdminService.Api",
+  "BasePath": "_content/AdminService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

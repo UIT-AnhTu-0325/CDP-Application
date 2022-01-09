@@ -1,0 +1,15 @@
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\AdminService.Infrastructure.deps.json
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\AdminService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\ref\AdminService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\AdminService.Infrastructure.pdb
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\AdminService.Core.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\AdminService.Core.pdb
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.AssemblyInfo.cs
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.csproj.CopyComplete
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ref\AdminService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\AdminService.Infrastructure.pdb
