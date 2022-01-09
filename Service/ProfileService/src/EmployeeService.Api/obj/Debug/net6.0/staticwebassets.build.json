@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "46x2WoZX8Zq6pz6yei64SdlIYwQgYkTEChriFZzIzME=",
+  "Source": "ProfileService.Api",
+  "BasePath": "_content/ProfileService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

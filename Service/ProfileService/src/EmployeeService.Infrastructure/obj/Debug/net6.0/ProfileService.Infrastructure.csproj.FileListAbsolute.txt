@@ -1,0 +1,15 @@
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.AssemblyInfo.cs
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\ProfileService.Infrastructure.deps.json
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\ProfileService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\ref\ProfileService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\ProfileService.Infrastructure.pdb
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\ProfileService.Core.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\bin\Debug\net6.0\ProfileService.Core.pdb
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.csproj.CopyComplete
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ref\ProfileService.Infrastructure.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Infrastructure\obj\Debug\net6.0\ProfileService.Infrastructure.pdb
