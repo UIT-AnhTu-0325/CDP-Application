@@ -14,7 +14,7 @@ import { IdentityTab } from "../components/identity/IdentityTab";
  * @function DetailUser
  **/
 
-export const DetailUser = (props) => {
+export default (props) => {
   return (
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">

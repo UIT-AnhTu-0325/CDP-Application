@@ -66,7 +66,7 @@ app.ConfigureSwagger();
 app.UseHttpsRedirection();
 
 app.UseCors(option => option
-    .WithOrigins(new [] {"http://localhost:3000"})
+    .WithOrigins(new [] {"http://localhost:3000", "http://localhost:3001" })
     .AllowAnyHeader()
     .AllowAnyMethod()
     .AllowCredentials()

@@ -19,7 +19,7 @@ import { getAllUser } from "../actions/userAction";
  * @function UserExplorer
  **/
 
-export const UserExplorer = (props) => {
+export default (props) => {
   const state_user = useSelector((state) => state.user.listUser);
   const dispatch = useDispatch();
 

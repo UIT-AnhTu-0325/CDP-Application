@@ -9,3 +9,4 @@ C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeServi
 C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Core\obj\Debug\net6.0\ProfileService.Core.dll
 C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Core\obj\Debug\net6.0\ref\ProfileService.Core.dll
 C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Core\obj\Debug\net6.0\ProfileService.Core.pdb
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\ProfileService\src\EmployeeService.Core\obj\Debug\net6.0\ProfileService.Core.csproj.AssemblyReference.cache

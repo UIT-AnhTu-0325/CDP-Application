@@ -10,7 +10,7 @@ import "./homepage.css";
  * @function HomePage
  **/
 
-export const HomePage = (props) => {
+export default (props) => {
   return (
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
