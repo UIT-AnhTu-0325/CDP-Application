@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DiscoveryServerApplication<discovery-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.marketing.discoveryserver.DiscoveryServerApplication",
+            "projectName": "discovery-server",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-InboundedMarketingServiceApplication<inbounded-marketing-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.marketing.inboundedmarketingservice.InboundedMarketingServiceApplication",
+            "projectName": "inbounded-marketing-service",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-RealtimeMarketingServiceApplication<realtime-marketing-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.marketing.realtimemarketingservice.RealtimeMarketingServiceApplication",
+            "projectName": "realtime-marketing-service",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiGatewayServiceApplication<api-gateway-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.marketing.apigatewayservice.ApiGatewayServiceApplication",
+            "projectName": "api-gateway-service",
+            "args": ""
+        }
+    ]
+}
