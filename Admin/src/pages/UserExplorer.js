@@ -3,17 +3,72 @@ import { Tabs, TabNav, TabNavItem, TabContent, TabPanel } from "react-smarttab";
 import "react-smarttab/dist/index.css";
 import { Tab1Component } from "../components/Tab1Component";
 import { Link } from "react-router-dom";
+import { useState } from "react";
+import { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { Table } from "../components/table/Table";
 
 // csc
 import "./homepage.css";
 import { Table1 } from "../components/table/Table1";
 import { Table2 } from "../components/table/Table2";
+import { getAllUser } from "../actions/userAction";
+
 /**
  * @author
  * @function UserExplorer
  **/
 
 export const UserExplorer = (props) => {
+  const state_user = useSelector((state) => state.user.listUser);
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    dispatch(getAllUser());
+  }, []);
+
+  //const state_user = [];
+  const users = {
+    header: [
+      "No",
+      "Name",
+      "Address",
+      "Email",
+      "Phone Number",
+      "Gender",
+      "Dob",
+      "Last Activity",
+      "Options",
+    ],
+    body: [],
+  };
+  const renderHead = (item, ind) => {
+    return <th key={ind}>{item}</th>;
+  };
+  const renderEmployees = (employees) => {
+    let myEmployees = [];
+    for (let i = 1; i <= employees.length; i++) {
+      let emp = employees[i - 1];
+      myEmployees.push(
+        <tr>
+          <td>{i}</td>
+          <td>{emp.name}</td>
+          <td>{emp.address}</td>
+          <td>{emp.email}</td>
+          <td>{emp.phoneNumber}</td>
+          <td>{emp.gender}</td>
+          <td>{emp.dob}</td>
+          <td>{emp.lastActivity}</td>
+          <td>
+            <button className="edit">Sửa</button>
+            <button className="delete">Xóa</button>
+          </td>
+        </tr>
+      );
+    }
+    return myEmployees;
+  };
+
   return (
     <div>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -71,7 +126,20 @@ export const UserExplorer = (props) => {
       </div>
       <div className="row usertable">
         <div className="col-11">
-          <Table2 />
+          <Table
+            headData={users.header}
+            renderHead={(item, ind) => renderHead(item, ind)}
+            render2Body={() =>
+              // renderUsers(
+              //   searchTerm.length < 1 ? listUser.listAdmin : searchResults
+              // ).length > 0
+              //   ? renderUsers(
+              //       searchTerm.length < 1 ? listUser.listAdmin : searchResults
+              //     )
+              //   : "Không tìm thấy kết quả"
+              renderEmployees(state_user)
+            }
+          />
         </div>
       </div>{" "}
     </div>
