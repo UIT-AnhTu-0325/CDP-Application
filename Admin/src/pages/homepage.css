@@ -1,0 +1,64 @@
+.row.top-nav {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.row.top-nav .list-func {
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  justify-content: space-around;
+}
+.row.tab {
+  width: 100%;
+}
+.row.tab .st.st-theme-default {
+  width: 100% !important;
+  border: none;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+.row.tab .st.st-theme-default .nav li {
+  min-width: 110px;
+}
+
+/* row  */
+.row.user {
+  width: 99%;
+  padding-left: 100px;
+  margin-left: 10px;
+  padding-right: 93px;
+}
+.row.usertable {
+  width: 99%;
+  padding-left: 100px;
+}
+
+/* detail user */
+.tab-detail-user {
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 81vw;
+}
+.tab-detail-user .st.st-theme-default {
+  width: 100% !important;
+  border: none;
+  margin-left: 120px;
+  margin-top: 30px;
+}
+.tab-detail-user .st.st-theme-default .nav li:nth-child(1) {
+  min-width: 70px !important;
+}
+.tab-detail-user .st.st-theme-default .nav li:nth-child(4) {
+  min-width: 90px !important;
+}
+.tab-detail-user .st.st-theme-default .nav li {
+  min-width: 110px;
+}
+.name-user-detail {
+  margin-left: 12px;
+  margin-top: 5px;
+}

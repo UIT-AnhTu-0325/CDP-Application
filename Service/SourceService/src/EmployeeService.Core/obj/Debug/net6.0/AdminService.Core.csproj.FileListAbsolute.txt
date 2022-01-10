@@ -1,0 +1,12 @@
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\bin\Debug\net6.0\AdminService.Core.deps.json
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\bin\Debug\net6.0\AdminService.Core.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\bin\Debug\net6.0\ref\AdminService.Core.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\bin\Debug\net6.0\AdminService.Core.pdb
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\AdminService.Core.csproj.AssemblyReference.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\AdminService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\AdminService.Core.AssemblyInfoInputs.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\AdminService.Core.AssemblyInfo.cs
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\AdminService.Core.csproj.CoreCompileInputs.cache
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\AdminService.Core.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\ref\AdminService.Core.dll
+C:\Users\Anh Tu\Desktop\CDP-Application\Service\AdminService\src\EmployeeService.Core\obj\Debug\net6.0\AdminService.Core.pdb

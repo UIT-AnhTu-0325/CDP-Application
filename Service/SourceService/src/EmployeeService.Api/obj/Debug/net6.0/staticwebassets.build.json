@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oqV70zb58pL9GU4SlyONRzEzJf5sP2BmY02m5lnTZtw=",
+  "Source": "SourceService.Api",
+  "BasePath": "_content/SourceService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
