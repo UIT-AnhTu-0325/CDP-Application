@@ -1,0 +1,44 @@
+.custom-btn {
+  padding: 6px 10px;
+  border: 2px solid rgb(233, 233, 233);
+  border-radius: 5px;
+  user-select: none;
+}
+.custom-btn:hover {
+  cursor: pointer;
+  background-color: rgb(243, 243, 243);
+}
+
+* {
+  --custom-border: 3px solid rgb(243, 243, 243);
+}
+.green-color {
+  color: rgb(11, 139, 32);
+}
+.back-btn {
+  padding: 14px 24px;
+  margin-right: 10px;
+  margin-left: 5px;
+  border-radius: 5px;
+  user-select: none;
+}
+.back-btn:hover {
+  background-color: rgb(240, 240, 240);
+  cursor: pointer;
+}
+.back-btn-link {
+  color: rgb(0, 129, 180);
+}
+.detail-user-btn {
+  font-size: 17px;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 6px;
+  border: 2px solid rgb(2, 177, 166);
+}
+.detail-user-btn:hover {
+  background-color: rgb(235, 235, 235);
+}
+.reset-link {
+  color: rgb(2, 177, 166);
+}
