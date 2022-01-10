@@ -11,7 +11,7 @@ import "./table2.css";
 
 export const Table2 = (props) => {
   const columns = useMemo(() => COLUMN, []);
-  const data = useMemo(() => Data1, []);
+  const data = useMemo(() => props.data, []);
   const tableInstance = useTable({
     columns,
     data,
